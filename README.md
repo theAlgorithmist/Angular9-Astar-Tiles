@@ -117,7 +117,7 @@ The A* algorithm for tiles is heavily dependent on a heuristic to evaluate poten
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The default board or set of 2D tiles is displayed.  Click the 'Optimal Path' button to show the A*-generated path from source to target node.  An example is shown below.
 
-!['A* Path'](images/optimal.png)
+!['A* Path'](images/optimal.jpg)
 
 ## Build
 
