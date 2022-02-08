@@ -4,6 +4,8 @@ This project illustrates the popular A* algorithm for 2D game tiles in Angular V
 
 Angular developers should find the project a convienient testbed to both learn and experiment with the A* algorithm for tiles.
 
+NOTE:  This code [has been updated and is now part of the AMYR library](https://github.com/theAlgorithmist/AMYR).
+
 Author:  Jim Armstrong - [The Algorithmist]
 
 @algorithmist
